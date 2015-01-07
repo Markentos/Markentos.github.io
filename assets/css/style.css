@@ -6246,7 +6246,7 @@ a:active {
  * -------------------------------------------------------------
  */
 #header {
-  background: url(../img/main-photo.jpg) no-repeat fixed center center transparent;
+  background: url(../img/header_background.JPG) no-repeat fixed center center transparent;
   background-size: cover;
 }
 #header .header-holder {
@@ -6721,7 +6721,7 @@ a:active {
   transition: all 0.3s ease-out;
 }
 #services .sev_list .brick2:hover {
-  background: #33cc66;
+  background: #ff6000;
   color: #ffffff;
 }
 #services .sev_list .brick2:hover i {

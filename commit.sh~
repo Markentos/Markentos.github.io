@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+commit -a -m "Just another commit"
+push origin master
